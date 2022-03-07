@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/sonsh5364)
+
+
+![ssh-24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh-24&show_icons=true&theme=ayu-mirage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh-24&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
