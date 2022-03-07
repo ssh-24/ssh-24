@@ -1,24 +1,24 @@
-### Hi there 👋
+## Hi there!😄
+![ssh-24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh-24&show_icons=true&theme=swift) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh-24&layout=compact&theme=swift&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ssh-24/ssh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Algorithm🤔...
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsh5364)](https://solved.ac/sonsh5364)
 
-Here are some ideas to get you started:
+## Stacks📚
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/sonsh5364)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
+## Studying🌱
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
-![ssh-24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh-24&show_icons=true&theme=ayu-mirage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh-24&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
+## Contacts :mailbox_with_mail:
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/seunghwaneeee/)](https://www.instagram.com/seunghwaneeee/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sonsh5364@gmail.com)](mailto:sonsh5364@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sonsh5364@naver.com)](mailto:sonsh5364@naver.com)
