@@ -18,4 +18,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ## Contacts :mailbox_with_mail:
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/seunghwaneeee/)](https://www.instagram.com/seunghwaneeee/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sonsh5364@gmail.com)](mailto:sonsh5364@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sonsh5364@naver.com)](mailto:sonsh5364@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sonsh5364@gmail.com)](mailto:sonsh5364@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sonsh5364@naver.com)](mailto:sonsh5364@naver.com)
